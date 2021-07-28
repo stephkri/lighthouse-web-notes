@@ -8,6 +8,7 @@ This repository contains all the notes taken by [Stéphane Krims](https://github
 
 * [Week 1](Week_1)
   * [Day 1](Week_1/Day_1)
+* [Week 2](Week_2)
 
 ### Tips
 
